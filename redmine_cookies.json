@@ -1,0 +1,11 @@
+[
+  {
+    "domain": "redmine.coolkit.cn",
+    "httpOnly": true,
+    "name": "_redmine_session",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "NVNNWnBzZXovTzVadTFNZnhDR2Z3MUJQRmVBTElsRW1keXluRU1Tc213aGorTHZRUXkvajViRFJzc3A2T0F0eER6UmVkYUU4cmplcmFFeWNVNUtWVjZGa3hBdG1IWmVpQS8zL3E5RnNwWTdOU3FxNjV2cW5iUkhrVGdGLzQ1Mk1GVWp0dmNnaXR1QnVIa0NIdjFjN0FKTmlqN0E4SDB3eEhMTE1BdUxxeG5CbElGTVNLTkxQWmx5OS9GcERoNHZ2VEgyVGM0elBUeGFXWFY5VmZXaHFnalBjM1dJa0V3QUI0NnNDZm5FQXJhU04za3ZwYXl1TWJTT0NyZWhOUkZJOVJoalM4aUNJU2ZhS2h2TTFONkJrNk1FcDZBakhhZkJvSUVwMDhERUx5WE54dmdPdVZVT21vUEs2eEMydzFPR2ctLTA2b2wwaE9obklLSjQzNUdtRE5tblE9PQ%3D%3D--fb3e22238c830452017201747e8705da618781b0"
+  }
+]
